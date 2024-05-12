@@ -1,6 +1,16 @@
 ""
 "   Index Time          EntryType   Source               InstanceID"
 "   ----- ----          ---------   ------               ----------"
+"   24545 May 12 10:41  Information Microsoft-Windows...         16"
+"   24544 May 12 10:41  Information Microsoft-Windows...         16"
+"   24543 May 12 10:05  Information Microsoft-Windows...          1"
+"   24542 May 12 10:05  Information Microsoft-Windows...        130"
+"   24541 May 12 10:05  Information Microsoft-Windows...        131"
+"   24540 May 12 10:05  Information Microsoft-Windows...          1"
+"   24539 May 12 10:04  Information Microsoft-Windows...        107"
+"   24538 May 12 10:04  Information Microsoft-Windows...         42"
+"   24537 May 12 09:04  Information Service Control M... 1073748864"
+"   24536 May 12 09:02  Information Service Control M... 1073748864"
 "   24535 May 12 07:26  Information Service Control M... 1073748864"
 "   24534 May 12 07:22  Information Service Control M... 1073748864"
 "   24533 May 12 07:21  Information Service Control M... 1073748869"
@@ -49,14 +59,4 @@
 "   24490 May 11 19:12  Information Microsoft-Windows...          6"
 "   24489 May 11 19:12  Information Microsoft-Windows...          6"
 "   24488 May 11 19:12  Information Microsoft-Windows...          1"
-"   24487 May 11 19:12  Information Microsoft-Windows...          6"
-"   24486 May 11 19:12  Information Microsoft-Windows...          6"
-"   24485 May 11 19:12  Information Microsoft-Windows...          6"
-"   24484 May 11 19:12  Information Microsoft-Windows...      51046"
-"   24483 May 11 19:12  Information Microsoft-Windows...      50103"
-"   24482 May 11 19:12  Information Microsoft-Windows...      50036"
-"   24481 May 11 19:12  Information Microsoft-Windows...      16983"
-"   24480 May 11 19:12  Information Microsoft-Windows...      16977"
-"   24479 May 11 19:12  Information Microsoft-Windows...      16962"
-"   24478 May 11 19:12  Information Microsoft-Windows...         14"
-   24477 May 1
+   24487 May 1
